@@ -24,7 +24,7 @@ public class DB {
     private static final String DB_URL = "jdbc:mysql://127.0.0.1:3306/shop"; // Replace "mydatabase"
     // with your actual
     private static final String DB_USERNAME = "root";
-    private static final String DB_PASSWORD = "1217";
+    private static final String DB_PASSWORD = "password";
 
     public static boolean insertCategory(String name, String description, String status) {
         try {

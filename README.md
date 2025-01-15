@@ -36,17 +36,24 @@ Current key features of ManageHub include:
 | ![Transaction History](https://github.com/user-attachments/assets/3f0f5404-2e48-409c-868d-dd7186fcb5e9) |
 
 </div>
+
 ### Authentication
 <div align="center">
+    
 | Login | Sign up |
 |----------------|-----------------|
 | ![Login](https://github.com/user-attachments/assets/7076d6c4-36ca-49e2-8b40-1a2f37ed38b8) | ![Sign up](https://github.com/user-attachments/assets/660cc555-23eb-445e-b16e-4a69a4ebd027) |
+
 </div>
+
 ### Warning Messages
+
 <div align="center">
+    
 | Delete Confirmation | Error Message | Update Confirmation |
 |---------------------|---------------|---------------------|
 |![Delete Message](https://github.com/user-attachments/assets/cba71490-0cc1-4d63-a459-c20e57961561)  |  ![Not insert message](https://github.com/user-attachments/assets/b78dd4f5-ba92-4a6d-869b-6197375d3163) |![Update message](https://github.com/user-attachments/assets/9e55bfbb-6cc7-42dc-8f89-655306978c32)|
+
 </div>
 
 ### Database Schema
